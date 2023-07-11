@@ -75,7 +75,9 @@ a:hover, a:focus, a:active, a:visited {
     background-color: #fcd93b;
     color: white;
   }
-
+.header-logo img{
+    width: 100px;
+}
 /* ------------------
 	Navigation 
 ------------------ */

@@ -4,7 +4,7 @@ export default function Footer(){
  return(
     <div className="footer">
         <div className="container-fluid footer">
-            <div className="row contact">
+            <div className="row contact" id="contact-us">
                 <div className="col-md-6 contact-form">
                 <ContactFormSection/> 
                 </div>

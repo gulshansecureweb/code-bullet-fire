@@ -10,7 +10,7 @@ import speaker_3 from './assets/img/speakers/speaker-3.png';
 import speaker_4 from './assets/img/speakers/speaker-4.png';
 import speaker_5 from './assets/img/speakers/speaker-5.png';
 import speaker_6 from './assets/img/speakers/speaker-6.png';
-import site_logo from './assets/img/site_logo.png';
+import site_logo from './assets/img/site_logo.jpg';
 
 //Components
 import Footer from './components/Footer';
