@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/code-bullet-fire/static/css/main.0bae3b9a.css",
-    "main.js": "/code-bullet-fire/static/js/main.d4cf3b57.js",
+    "main.css": "/code-bullet-fire/static/css/main.f8bb0fa9.css",
+    "main.js": "/code-bullet-fire/static/js/main.1a8af0d6.js",
     "static/js/787.492c5212.chunk.js": "/code-bullet-fire/static/js/787.492c5212.chunk.js",
     "static/media/rocket.png": "/code-bullet-fire/static/media/rocket.5b95dfee55e4cfaed388.png",
     "static/media/meetup-logo.png": "/code-bullet-fire/static/media/meetup-logo.7fcaeb63fc0ed9c47769.png",
-    "static/media/site_logo.png": "/code-bullet-fire/static/media/site_logo.5058a9b6603c1b9997ed.png",
+    "static/media/site_logo.jpg": "/code-bullet-fire/static/media/site_logo.257052a7a0a822dbbf56.jpg",
     "static/media/speaker-5.png": "/code-bullet-fire/static/media/speaker-5.49142e2dde7081d6ab15.png",
     "static/media/speaker-3.png": "/code-bullet-fire/static/media/speaker-3.62881438115ecae8ac6d.png",
     "static/media/speaker-4.png": "/code-bullet-fire/static/media/speaker-4.bf4f3bd689e8dcd86953.png",
@@ -13,12 +13,12 @@
     "static/media/speaker-2.png": "/code-bullet-fire/static/media/speaker-2.963226c5599dabd59a1c.png",
     "static/media/speaker-1.png": "/code-bullet-fire/static/media/speaker-1.bf5ccb452c587864c676.png",
     "index.html": "/code-bullet-fire/index.html",
-    "main.0bae3b9a.css.map": "/code-bullet-fire/static/css/main.0bae3b9a.css.map",
-    "main.d4cf3b57.js.map": "/code-bullet-fire/static/js/main.d4cf3b57.js.map",
+    "main.f8bb0fa9.css.map": "/code-bullet-fire/static/css/main.f8bb0fa9.css.map",
+    "main.1a8af0d6.js.map": "/code-bullet-fire/static/js/main.1a8af0d6.js.map",
     "787.492c5212.chunk.js.map": "/code-bullet-fire/static/js/787.492c5212.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0bae3b9a.css",
-    "static/js/main.d4cf3b57.js"
+    "static/css/main.f8bb0fa9.css",
+    "static/js/main.1a8af0d6.js"
   ]
 }
